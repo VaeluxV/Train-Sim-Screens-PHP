@@ -4,6 +4,7 @@
 <head>
     <title>TGV Classique - Train Sim Screen version 10.09.23-01</title>
     <link rel="stylesheet" href="/./css/style.css">
+    <link rel="stylesheet" href="/./css/styletgvc.css">
     <link rel="icon" type="image/x-icon" href="/./img/tgv.ico">
 </head>
 
@@ -14,7 +15,32 @@
         <a class="trainlist" href="/./index.php">Home</a>
     </div>
     
-    <img src="/./img/circle.png" alt="circle" class="centerimg">
+    <div class="grid">
+        <div class="square"> <img src="/./img/numbers/green3.png"> </div>
+        <div class="square"> <img src="/./img/numbers/green2.png"> </div>
+        <div class="square"> <img src="/./img/numbers/green0.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/black1.png"> </div>
+        <div class="square"> <img src="/./img/numbers/black0.png"> </div>
+        <div class="square"> <img src="/./img/numbers/black0.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img src="/./img/numbers/red.png"> </div>
+        <div class="square"> <img src="/./img/numbers/red.png"> </div>
+        <div class="square"> <img src="/./img/numbers/red.png"> </div>
+    </div>
 
 </body>
 

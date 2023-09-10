@@ -1,0 +1,33 @@
+body {
+    background-color: #222222;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(12, 2fr);
+    gap: 0%;
+}
+
+.square {
+    aspect-ratio: 1/ 1;
+    display: flex;
+    align-items: center;
+    padding: 5px 5px;
+    background-color: #111111;
+    color: #ffffff;
+}
+
+.square img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.square.fullImg {
+    padding: 0;
+}
+
+.square.fullImg img {
+    object-fit: cover;
+}
