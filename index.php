@@ -4,6 +4,7 @@
 <head>
     <title>Train Sim Screen version 10.09.23-01</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 </head>
 
 <body>
@@ -15,7 +16,9 @@
     </div>
 
     <div class="aligndiv">
-        <a class="trainlist" href="/tgv.php">TGV</a>
+        <a class="trainlist" href="/trains/tgv.php">TGV</a> <br>
+        <a class="trainlist" href="/trains/tgvclassique.php">TGV Classique</a> <br>
+        <a class="trainlist" href="/trains/ice.php">ICE</a> <br>
     </div>
 
 </body>
