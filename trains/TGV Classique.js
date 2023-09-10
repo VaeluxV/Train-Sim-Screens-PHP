@@ -269,12 +269,12 @@ function change080G() {
 }
 
 function change300B() {
-    document.getElementById("square1").src = "/./img/numbers/black3.png";
-    document.getElementById("square2").src = "/./img/numbers/black0.png";
-    document.getElementById("square3").src = "/./img/numbers/black0.png";
-    document.getElementById("square4").src = "/./img/numbers/empty.png";
-    document.getElementById("square5").src = "/./img/numbers/empty.png";
-    document.getElementById("square6").src = "/./img/numbers/empty.png";
+    document.getElementById("square1").src = "/./img/numbers/empty.png";
+    document.getElementById("square2").src = "/./img/numbers/empty.png";
+    document.getElementById("square3").src = "/./img/numbers/empty.png";
+    document.getElementById("square4").src = "/./img/numbers/black3.png";
+    document.getElementById("square5").src = "/./img/numbers/black0.png";
+    document.getElementById("square6").src = "/./img/numbers/black0.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
