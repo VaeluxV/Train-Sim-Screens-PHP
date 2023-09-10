@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Train Sim Screen version 10.09.23-02</title>
+    <title>TSScreen version 10.09.23-02</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 </head>

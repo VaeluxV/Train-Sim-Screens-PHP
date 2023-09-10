@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>TGV Classique - Train Sim Screen version 10.09.23-02</title>
+    <title>TGV Classique - TSScreen 10.09.23-02</title>
     <link rel="stylesheet" href="/./css/style.css">
     <link rel="stylesheet" href="/./css/styletgvc.css">
     <link rel="icon" type="image/x-icon" href="/./img/tgv.ico">
