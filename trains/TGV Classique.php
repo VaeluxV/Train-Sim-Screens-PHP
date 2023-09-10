@@ -91,4 +91,4 @@
 
 </html>
 
-<script src="TGV Classique.js"> </script>
+<script src="/./trains-js/TGV Classique.js"> </script>
