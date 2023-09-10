@@ -3,6 +3,8 @@ Train simulator screens is a small project to make simulations of the screens th
 
 Train simulator screen project, currently WIP
 
+The current versions are very inefficiently coded because I have not figured out a better way yet 🤷‍♀️
+
 Feel free to make your own versions and/or use it in your own train sim!
 
 ~SubzeV
