@@ -3,4 +3,6 @@ Train simulator screens is a small project to make simulations of the screens th
 
 Train simulator screen project, currently WIP
 
-©SubzeV
+Feel free to make your own versions an or use it in your own train sim!
+
+~SubzeV
