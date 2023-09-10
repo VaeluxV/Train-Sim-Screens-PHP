@@ -20,5 +20,36 @@ p {
     margin-bottom:auto;
     height: 20%;
     width: 20%;
+}
 
+.logoimg {
+    display: inline;
+    height: 50px;
+    width: 50px;
+}
+
+.headertext {
+    display: inline;
+    height: 50px;
+    width: 50px;
+    padding: 20px 20px;
+    font-size: 36px;
+}
+
+.aligndiv {
+    margin: auto;
+    width: 90%;
+    padding: 8px 1px;
+}
+
+.trainlist {
+    font-size: 24px;
+    font-family: "Verdana", "Helvatica", sans-serif;
+    color: #ffffff;
+}
+
+.trainlist:hover {
+    font-size: 24px;
+    font-family: "Verdana", "Helvatica", sans-serif;
+    color: #BBBBBB;
 }

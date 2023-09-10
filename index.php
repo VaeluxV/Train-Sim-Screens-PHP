@@ -8,9 +8,15 @@
 
 <body>
 
-    <h1>Test 123</h1>
-    <p>Paragraph</p>
-    <img src="img/circle.png" alt="circle" class="centerimg">
+    
+    <div class="aligndiv">
+        <img src="img/logo-full.png" alt="train-sim-screens logo" class="logoimg">
+        <h1 class="headertext">List of available trains:</h1>
+    </div>
+
+    <div class="aligndiv">
+        <a class="trainlist" href="/tgv.php">TGV</a>
+    </div>
 
 </body>
 
