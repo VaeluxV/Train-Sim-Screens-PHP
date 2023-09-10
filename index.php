@@ -16,11 +16,28 @@
     </div>
 
     <div class="aligndiv">
-        <a class="trainlist" href="/trains/tgv.php">TGV</a> <br>
-        <a class="trainlist" href="/trains/tgvclassique.php">TGV Classique</a> <br>
-        <a class="trainlist" href="/trains/ice.php">ICE</a> <br>
+        <!-- <a class="trainlist" href="/trains/tgv.php">TGV</a> <br> -->
+        <?php
+
+        if ($handle = opendir('trains/')) {
+
+            while (false !== ($entry = readdir($handle))) {
+
+                if ($entry != "." && $entry != "..") {
+
+                    $filenamedisplay = str_replace('.php', ' ', $entry);
+                    $filenamedisplay = ucfirst($filenamedisplay);
+
+                    echo "<a class='trainlist' href='/trains/$entry'>$filenamedisplay</a> <br>";
+                }
+            }
+            closedir($handle);
+        }
+
+        ?>
+
     </div>
 
 </body>
 
-</html> 
+</html>
