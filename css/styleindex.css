@@ -1,5 +1,5 @@
 body {
-    background-color: #165399;
+    background-color: #EEEEEE;
 }
 
 h1 {
@@ -10,6 +10,13 @@ h1 {
 p {
     color: #ffffff;
     font-family: "Verdana", "Helvatica", sans-serif;
+}
+
+.centerdiv {
+    margin: auto;
+    width: 60%;
+    padding: 8px 10px;
+    background-color: #165399;
 }
 
 .centerimg {
@@ -58,4 +65,10 @@ p {
     font-size: 24px;
     font-family: "Verdana", "Helvatica", sans-serif;
     color: #BBBBBB;
+}
+
+.copyright {
+    font-size: 13px;
+    font-family: "Verdana", "Helvatica", sans-serif;
+    color: #ffffff;
 }
