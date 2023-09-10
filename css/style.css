@@ -28,6 +28,12 @@ p {
     width: 50px;
 }
 
+.logoimgrectangle {
+    display: inline;
+    height: 20px;
+    width: 50px;
+}
+
 .headertext {
     display: inline;
     height: 50px;
@@ -38,8 +44,8 @@ p {
 
 .aligndiv {
     margin: auto;
-    width: 95%;
-    padding: 8px 1px;
+    width: 96%;
+    padding: 8px 10px;
 }
 
 .trainlist {

@@ -10,7 +10,7 @@
 <body>
 
     <div class="aligndiv">
-        <img src="/./img/tgv.png" alt="train-sim-screens logo" class="logoimg">
+        <img src="/./img/tgv1.png" alt="train-sim-screens logo" class="logoimgrectangle">
         <a class="trainlist" href="/./index.php">Home</a>
     </div>
     
