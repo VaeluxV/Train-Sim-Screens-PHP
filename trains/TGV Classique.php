@@ -57,6 +57,19 @@
 
     <br><br>
 
+    <button onclick="change320Gblink()">Set 320 green blink</button>
+    <button onclick="change300Gblink()">Set 300 green blink</button>
+    <button onclick="change270Gblink()">Set 270 green blink</button>
+    <button onclick="change230Gblink()">Set 230 green blink</button>
+    <button onclick="change200Gblink()">Set 200 green blink</button>
+    <button onclick="change170Gblink()">Set 170 green blink</button>
+    <button onclick="change160Gblink()">Set 160 green blink</button>
+    <button onclick="change130Gblink()">Set 130 green blink</button>
+    <button onclick="change100Gblink()">Set 100 green blink</button>
+    <button onclick="change080Gblink()">Set 080 green blink</button>
+
+    <br><br>
+
     <button onclick="change300B()">Set 300 black</button>
     <button onclick="change270B()">Set 270 black</button>
     <button onclick="change230B()">Set 230 black</button>
