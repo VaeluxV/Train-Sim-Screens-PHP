@@ -69,21 +69,35 @@
 
     <br><br>
 
-    <button onclick="change300W()">Set 300 white warn</button>
-    <button onclick="change270W()">Set 270 white warn</button>
-    <button onclick="change230W()">Set 230 white warn</button>
-    <button onclick="change200W()">Set 200 white warn</button>
-    <button onclick="change170W()">Set 170 white warn</button>
-    <button onclick="change160W()">Set 160 white warn</button>
-    <button onclick="change130W()">Set 130 white warn</button>
-    <button onclick="change100W()">Set 100 white warn</button>
-    <button onclick="change080W()">Set 080 white warn</button>
+    <button onclick="change300W()">Set 300 white</button>
+    <button onclick="change270W()">Set 270 white</button>
+    <button onclick="change230W()">Set 230 white</button>
+    <button onclick="change200W()">Set 200 white</button>
+    <button onclick="change170W()">Set 170 white</button>
+    <button onclick="change160W()">Set 160 white</button>
+    <button onclick="change130W()">Set 130 white</button>
+    <button onclick="change100W()">Set 100 white</button>
+    <button onclick="change080W()">Set 080 white</button>
+
+    <br><br>
+
+    <button onclick="change300Wblink()">Set 300 white blink</button>
+    <button onclick="change270Wblink()">Set 270 white blink</button>
+    <button onclick="change230Wblink()">Set 230 white blink</button>
+    <button onclick="change200Wblink()">Set 200 white blink</button>
+    <button onclick="change170Wblink()">Set 170 white blink</button>
+    <button onclick="change160Wblink()">Set 160 white blink</button>
+    <button onclick="change130Wblink()">Set 130 white blink</button>
+    <button onclick="change100Wblink()">Set 100 white blink</button>
+    <button onclick="change080Wblink()">Set 080 white blink</button>
 
     <br><br>
 
     <button onclick="change0R()">Set stop 0 red</button>
 
     <button onclick="changeR()">Set stop full red</button>
+
+    <button onclick="clearScreen()">Turn off TVM</button>
 
 
 

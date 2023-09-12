@@ -15,7 +15,7 @@
         <a class="trainlist" href="/./index.php">Home</a>
     </div>
     
-    <img src="/./img/circle.png" alt="circle" class="centerimg">
+    <img src="/./img/tgv-pos/gauge-tgv.png" alt="gauge" class="centerimg">
 
 </body>
 
