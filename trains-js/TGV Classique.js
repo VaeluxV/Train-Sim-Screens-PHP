@@ -53,12 +53,12 @@ function change300G() {
 }
 
 function change270G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green2.png";
-    document.getElementById("square5").src = "/./img/numbers/green7.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green2.png";
+    document.getElementById("square2").src = "/./img/numbers/green7.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -80,12 +80,12 @@ function change270G() {
 }
 
 function change230G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green2.png";
-    document.getElementById("square5").src = "/./img/numbers/green3.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green2.png";
+    document.getElementById("square2").src = "/./img/numbers/green3.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -107,12 +107,12 @@ function change230G() {
 }
 
 function change200G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green2.png";
-    document.getElementById("square5").src = "/./img/numbers/green0.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green2.png";
+    document.getElementById("square2").src = "/./img/numbers/green0.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -134,12 +134,12 @@ function change200G() {
 }
 
 function change170G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green1.png";
-    document.getElementById("square5").src = "/./img/numbers/green7.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green1.png";
+    document.getElementById("square2").src = "/./img/numbers/green7.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -161,12 +161,12 @@ function change170G() {
 }
 
 function change160G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green1.png";
-    document.getElementById("square5").src = "/./img/numbers/green6.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green1.png";
+    document.getElementById("square2").src = "/./img/numbers/green6.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -188,12 +188,12 @@ function change160G() {
 }
 
 function change130G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green1.png";
-    document.getElementById("square5").src = "/./img/numbers/green3.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green1.png";
+    document.getElementById("square2").src = "/./img/numbers/green3.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -215,12 +215,12 @@ function change130G() {
 }
 
 function change100G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green1.png";
-    document.getElementById("square5").src = "/./img/numbers/green0.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green1.png";
+    document.getElementById("square2").src = "/./img/numbers/green0.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
@@ -242,12 +242,12 @@ function change100G() {
 }
 
 function change080G() {
-    document.getElementById("square1").src = "/./img/numbers/empty.png";
-    document.getElementById("square2").src = "/./img/numbers/empty.png";
-    document.getElementById("square3").src = "/./img/numbers/empty.png";
-    document.getElementById("square4").src = "/./img/numbers/green0.png";
-    document.getElementById("square5").src = "/./img/numbers/green8.png";
-    document.getElementById("square6").src = "/./img/numbers/green0.png";
+    document.getElementById("square1").src = "/./img/numbers/green0.png";
+    document.getElementById("square2").src = "/./img/numbers/green8.png";
+    document.getElementById("square3").src = "/./img/numbers/green0.png";
+    document.getElementById("square4").src = "/./img/numbers/empty.png";
+    document.getElementById("square5").src = "/./img/numbers/empty.png";
+    document.getElementById("square6").src = "/./img/numbers/empty.png";
     document.getElementById("square7").src = "/./img/numbers/empty.png";
     document.getElementById("square8").src = "/./img/numbers/empty.png";
     document.getElementById("square9").src = "/./img/numbers/empty.png";
