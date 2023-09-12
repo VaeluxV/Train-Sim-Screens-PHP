@@ -16,9 +16,9 @@
     </div>
     
     <div class="grid">
-        <div class="square"> <img id="square1" src="/./img/numbers/green3.png"> </div>
-        <div class="square"> <img id="square2" src="/./img/numbers/green0.png"> </div>
-        <div class="square"> <img id="square3" src="/./img/numbers/green0.png"> </div>
+        <div class="square"> <img id="square1" src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img id="square2" src="/./img/numbers/empty.png"> </div>
+        <div class="square"> <img id="square3" src="/./img/numbers/empty.png"> </div>
         <div class="square"> <img id="square4" src="/./img/numbers/empty.png"> </div>
         <div class="square"> <img id="square5" src="/./img/numbers/empty.png"> </div>
         <div class="square"> <img id="square6" src="/./img/numbers/empty.png"> </div>
