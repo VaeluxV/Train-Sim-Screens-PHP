@@ -35,7 +35,9 @@
         }
 
             ?>
-            <br><br>
+            <br>
+            <p class="copyright">More coming soon.</p>
+            <br>
             <p class="copyright">&copy;Subze_V</p>
         </div>
     </div>
