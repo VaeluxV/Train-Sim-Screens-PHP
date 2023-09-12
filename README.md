@@ -9,6 +9,7 @@ Train simulator screens is a small project to make simulations of the screens th
 * Universal display
 * ICE
 
+
 Train simulator screen project is currently WIP
 
 To use this, install an Apache server or use something like XAMPP and put these files in the correct folder so they are accesible via the localhost or ip you have opened for your server. The 'index.php' should be automatically accessible. Changing the folder structure will mess up the workings of the index page and might break the others too.
