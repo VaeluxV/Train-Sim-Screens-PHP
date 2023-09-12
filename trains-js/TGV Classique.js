@@ -228,6 +228,69 @@ function change080B() {
     document.getElementById("square9").src = "/./img/numbers/black0.png";
 }
 
+function change300Bblink() {
+    clearScreen();
+    document.getElementById("square4").src = "/./img/numbers/black3blink.png";
+    document.getElementById("square5").src = "/./img/numbers/black0blink.png";
+    document.getElementById("square6").src = "/./img/numbers/black0blink.png";
+}
+
+function change270Bblink() {
+    clearScreen();
+    document.getElementById("square4").src = "/./img/numbers/black2blink.png";
+    document.getElementById("square5").src = "/./img/numbers/black7blink.png";
+    document.getElementById("square6").src = "/./img/numbers/black0blink.png";
+}
+
+function change230Bblink() {
+    clearScreen();
+    document.getElementById("square4").src = "/./img/numbers/black2blink.png";
+    document.getElementById("square5").src = "/./img/numbers/black3blink.png";
+    document.getElementById("square6").src = "/./img/numbers/black0blink.png";
+}
+
+function change200Bblink() {
+    clearScreen();
+    document.getElementById("square4").src = "/./img/numbers/black2blink.png";
+    document.getElementById("square5").src = "/./img/numbers/black0blink.png";
+    document.getElementById("square6").src = "/./img/numbers/black0blink.png";
+}
+
+function change170Bblink() {
+    clearScreen();
+    document.getElementById("square7").src = "/./img/numbers/black1blink.png";
+    document.getElementById("square8").src = "/./img/numbers/black7blink.png";
+    document.getElementById("square9").src = "/./img/numbers/black0blink.png";
+}
+
+function change160Bblink() {
+    clearScreen();
+    document.getElementById("square7").src = "/./img/numbers/black1blink.png";
+    document.getElementById("square8").src = "/./img/numbers/black6blink.png";
+    document.getElementById("square9").src = "/./img/numbers/black0blink.png";
+}
+
+function change130Bblink() {
+    clearScreen();
+    document.getElementById("square7").src = "/./img/numbers/black1blink.png";
+    document.getElementById("square8").src = "/./img/numbers/black3blink.png";
+    document.getElementById("square9").src = "/./img/numbers/black0blink.png";
+}
+
+function change100Bblink() {
+    clearScreen();
+    document.getElementById("square7").src = "/./img/numbers/black1blink.png";
+    document.getElementById("square8").src = "/./img/numbers/black0blink.png";
+    document.getElementById("square9").src = "/./img/numbers/black0blink.png";
+}
+
+function change080Bblink() {
+    clearScreen();
+    document.getElementById("square7").src = "/./img/numbers/black0blink.png";
+    document.getElementById("square8").src = "/./img/numbers/black8blink.png";
+    document.getElementById("square9").src = "/./img/numbers/black0blink.png";
+}
+
 function change300W() {
     clearScreen();
     document.getElementById("square4").src = "/./img/numbers/white3.png";

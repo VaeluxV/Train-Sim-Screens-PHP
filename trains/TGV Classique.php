@@ -82,6 +82,18 @@
 
     <br><br>
 
+    <button onclick="change300Bblink()">Set 300 black blink</button>
+    <button onclick="change270Bblink()">Set 270 black blink</button>
+    <button onclick="change230Bblink()">Set 230 black blink</button>
+    <button onclick="change200Bblink()">Set 200 black blink</button>
+    <button onclick="change170Bblink()">Set 170 black blink</button>
+    <button onclick="change160Bblink()">Set 160 black blink</button>
+    <button onclick="change130Bblink()">Set 130 black blink</button>
+    <button onclick="change100Bblink()">Set 100 black blink</button>
+    <button onclick="change080Bblink()">Set 080 black blink</button>
+
+    <br><br>
+
     <button onclick="change300W()">Set 300 white</button>
     <button onclick="change270W()">Set 270 white</button>
     <button onclick="change230W()">Set 230 white</button>
