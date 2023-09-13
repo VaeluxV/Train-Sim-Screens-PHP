@@ -10,12 +10,17 @@
 
 <body>
 
+    <!-- Navigation -->
     <div class="aligndiv">
         <img src="/./img/tgv1.png" alt="train-sim-screens logo" class="logoimgrectangle">
         <a class="trainlist" href="/./index.php">Home</a>
     </div>
     
     <img src="/./img/tgv-pos/gauge-tgv.png" alt="gauge" class="centerimg">
+
+    <!-- Div with class grid has a max of 12 squares next to each other, in this case making one row of 3 squares. -->
+    <!-- Each individual square has a unique ID that the javascript can use to change the image to the correct number. -->
+    <!-- The div with class tvmblock is styled so it stays small and in turn makes the grid smaller without disrupting functionality. -->
 
     <div class="tvmblock">
         <div class="grid">
@@ -24,8 +29,10 @@
             <div class="square"> <img id="square3" src="/./img/numbers/empty_invis.png"> </div>
         </div>
     </div>
-    
+
     <br>
+
+    <!-- These buttons make the same calls as what the system detecting speeds and tvm speeds will be making -->
 
     <button onclick="change320G()">Set 320 green</button>
     <button onclick="change300G()">Set 300 green</button>
@@ -111,4 +118,5 @@
 
 </html>
 
+<!-- Attach javascript file -->
 <script src="/./trains-js/TGV POS.js"> </script>
