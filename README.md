@@ -3,9 +3,9 @@ Train simulator screens is a small project to make simulations of the screens th
 
 ## All current functioning train screens:
 * TGV Classique (using debug menu only)
+* TGV POS / Thalys
 
 ## All current WIP & coming soon train screens:
-* TGV POS / Thalys
 * Universal display
 * ICE
 
