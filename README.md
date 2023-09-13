@@ -1,11 +1,11 @@
 # Train Simulator Screens (TSS)
 Train simulator screens is a small project to make simulations of the screens that are used in real trains from train simulator in order to use these on a physical train simulator.
 
-## All current functioning train screens:
-* TGV Classique (using debug menu only)
-* TGV POS / Thalys
+## All current WIP & functioning train screens:
+* TGV Classique (using debug menu only, no speed display)
+* TGV POS / Thalys (using debug menu only, no speed display)
 
-## All current WIP & coming soon train screens:
+## All coming soon train screens:
 * Universal display
 * ICE
 
